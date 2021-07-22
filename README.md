@@ -15,7 +15,15 @@ I strive to build solutions thought to and by lawyers, which can potentially imp
 
 ___
 
-## Skillset
+## Meet my Projects
+[![Mevio](https://img.shields.io/badge/Mevio-FFC300?style=for-the-badge)](https://www.mevio.com.br)  A workflow and automation platform
+
+[![HubJur](https://img.shields.io/badge/HubJur-1B4859?style=for-the-badge)](https://www.hubjur.com.br)  A lawyers' marketplace webapp using AI
+
+[![Dev.Lawyer](https://img.shields.io/badge/Dev.Lawyer-732222?style=for-the-badge)](https://dev.lawyer)  An educational project to bring lawyers and tech together
+___
+
+## This is my core Skillset
 <img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/> <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/> <img alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/> <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/> <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/> <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/> <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 
 <a href="https://github.com/OctavioSI/github-readme-stats">
