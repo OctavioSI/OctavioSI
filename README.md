@@ -1,16 +1,23 @@
-### Hi there 👋
+![Hi there, Octavio here!](https://github.com/OctavioSI/OctavioSI/blob/eb56f9c88a9319791290b31f45bbb099bd5b2b2f/header.png)
 
-<!--
-**OctavioSI/OctavioSI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer, Lawyer and Startup Founder. I like to code, create new concepts and drink beer. Father of two.
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/octaviosi-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/octaviosi) [![Twitter](https://img.shields.io/badge/@octavioietsugu-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/octavioietsugu) [![Instagram](https://img.shields.io/badge/OctavioSI-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/octaviosi/)  [![E-mail](https://img.shields.io/badge/octavio@dev.lawyer-D14836?style=flat&logo=gmail&logoColor=white)](mailto:octavio@dev.lawyer)  
+[![Blog](https://img.shields.io/badge/dev.lawyer-FF5722?style=flat&logo=blogger&logoColor=white)](https://dev.lawyer) [![Twitch](https://img.shields.io/badge/DevLawyers-9146FF?style=flat&logo=twitch&logoColor=white)](https://www.twitch.tv/devlawyers) [![YouTube](https://img.shields.io/badge/dev.lawyer-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCPmM6RAkfC0CY2gGudIhWQA) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+___
+When you follow so many tech and legal "influencers", you can promptly notice that only a handful of them can properly do both. I believe that, as me, there are other lawyer-developers out there (or at least some enthusiasts in this niche) that like the idea of having a safe ground to discuss technology applied to the legal field in a way that is between (i) the superficial approach - a "beginners" one used by those who are self-entitled tech lawyers / innovation lawyers - and (ii) a more "technical" or "heavy" approach used by "pure" developers.
+
+I strive to build solutions thought to and by lawyers, which can potentially impact the way we work. And have fun while doing it.
+
+*Are you a lawyer interested in coding, want to colab in some innovative projects or just want to say hi?*
+*Drop me a line at <a href="mailto:octavio@dev.lawyer">octavio@dev.lawyer</a>* :grinning:
+
+___
+
+<a href="https://github.com/OctavioSI/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=OctavioSI&count_private=true&theme=monokai&hide_title=true&show_icons=true" />
+</a>
+<a href="https://github.com/octaviosi/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OctavioSI&layout=compact&theme=monokai&hide_title=true" />
+</a>
