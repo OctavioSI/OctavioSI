@@ -16,11 +16,11 @@ I strive to build solutions thought to and by lawyers, which can potentially imp
 ___
 
 ## Meet my Projects
-[![Mevio](https://img.shields.io/badge/Mevio-FFC300?style=for-the-badge)](https://www.mevio.com.br)  A workflow and automation platform
+[![Mevio - Workflows and Automation](https://github.com/OctavioSI/OctavioSI/blob/main/GitHub_Mevio_banner.png)](https://www.mevio.com.br)
 
-[![HubJur](https://img.shields.io/badge/HubJur-1B4859?style=for-the-badge)](https://www.hubjur.com.br)  A lawyers' marketplace webapp using AI
+[![HubJur - Lawyers' Marketplace App using AI](https://github.com/OctavioSI/OctavioSI/blob/main/GitHub_HubJur_banner.png)](https://www.hubjur.com.br)
 
-[![Dev.Lawyer](https://img.shields.io/badge/Dev.Lawyer-732222?style=for-the-badge)](https://dev.lawyer)  An educational project to bring lawyers and tech together
+[![Dev.Lawyer - Tech for non-techs](https://github.com/OctavioSI/OctavioSI/blob/main/GitHub_DevLawyer_banner.png)](https://dev.lawyer)  An educational project to bring lawyers and tech together
 ___
 
 ## This is my core Skillset
