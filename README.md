@@ -15,16 +15,20 @@ I strive to build solutions thought to and by lawyers, which can potentially imp
 
 ___
 
-## Latest Dev.Lawyer posts
+## Latest Dev.Lawyer YouTube Videos
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+## Latest Dev.Lawyer posts (Pt-BR)
+<!-- BLOG-POST-LIST-BR:START -->
+<!-- BLOG-POST-LIST-BR:END -->
+
+## Latest Dev.Lawyer posts (En)
 <!-- BLOG-POST-LIST:START -->
 - [How to use Git and GitHub: a step-by-step dummies' guide](http://feedproxy.google.com/~r/Devlawyer/~3/hxFsaEsF_Yo/how-to-use-git-and-github-step-by-step-guide.html)
 - [Is it possible to have a collaborative environment in Law?](http://feedproxy.google.com/~r/Devlawyer/~3/MMqBHCTij4g/collaborative-law.html)
 - [Should Lawyers code?](http://feedproxy.google.com/~r/Devlawyer/~3/anPbfKtMVk0/should-lawyers-code.html)
 <!-- BLOG-POST-LIST:END -->
-
-## Latest Dev.Lawyer YouTube Videos
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
 
 ___
 
