@@ -15,6 +15,16 @@ I strive to build solutions thought to and by lawyers, which can potentially imp
 
 ___
 
+## Latest Dev.Lawyer posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+## Latest Dev.Lawyer YouTube Videos
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+___
+
 ## Meet my Projects
 [![Mevio - Workflows and Automation](https://github.com/OctavioSI/OctavioSI/blob/main/GitHub_Mevio_banner.png)](http://www.mevio.com.br)   [![HubJur - Lawyers' Marketplace App using AI](https://github.com/OctavioSI/OctavioSI/blob/main/GitHub_HubJur_banner.png)](https://www.hubjur.com.br)   [![Dev.Lawyer - Tech for non-techs](https://github.com/OctavioSI/OctavioSI/blob/main/GitHub_DevLawyer_banner.png)](https://dev.lawyer) 
 ___
