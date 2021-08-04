@@ -17,6 +17,7 @@ ___
 
 ## Latest Dev.Lawyer YouTube Videos
 <!-- YOUTUBE:START -->
+- [Como usar o GIT e o GITHUB na prática | Tutorial de GIT e GITHUB para iniciantes](https://www.youtube.com/watch?v=cnIYisCYlzM)
 <!-- YOUTUBE:END -->
 
 ## Latest Dev.Lawyer posts (Pt-BR)
