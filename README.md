@@ -30,6 +30,7 @@ ___
 
 ## Latest Dev.Lawyer posts (En)
 <!-- BLOG-POST-LIST:START -->
+- [How to customize your GitHub profile?](http://feedproxy.google.com/~r/Devlawyer/~3/6mUO1Rkc16w/cutomize-github.html)
 - [How to use Git and GitHub: a step-by-step dummies' guide](http://feedproxy.google.com/~r/Devlawyer/~3/hxFsaEsF_Yo/how-to-use-git-and-github-step-by-step-guide.html)
 - [Is it possible to have a collaborative environment in Law?](http://feedproxy.google.com/~r/Devlawyer/~3/MMqBHCTij4g/collaborative-law.html)
 - [Should Lawyers code?](http://feedproxy.google.com/~r/Devlawyer/~3/anPbfKtMVk0/should-lawyers-code.html)
