@@ -17,6 +17,8 @@ ___
 
 ## Latest Dev.Lawyer YouTube Videos
 <!-- YOUTUBE:START -->
+- [Dica rápida, dev: não crie novo e-mail para cadastro | Alias de e-mail #Shorts](https://www.youtube.com/watch?v=nAJduSo_N7s)
+- [Como personalizar o meu perfil no GITHUB? | Destaque-se customizando o seu GITHUB (README)](https://www.youtube.com/watch?v=DyK5oZD612M)
 - [Como usar o GIT e o GITHUB na prática | Tutorial de GIT e GITHUB para iniciantes](https://www.youtube.com/watch?v=cnIYisCYlzM)
 <!-- YOUTUBE:END -->
 
