@@ -24,6 +24,7 @@ ___
 
 ## Latest Dev.Lawyer posts (Pt-BR)
 <!-- BLOG-POST-LIST-BR:START -->
+- [Como escolher um EDITOR DE CÓDIGO para PROGRAMAÇÃO WEB (IDE?)](http://feedproxy.google.com/~r/Brdevlawyer/~3/A788NA0AMPE/escolher-editor-codigo-programacao-web.html)
 - [Como personalizar o seu perfil no GitHub?](http://feedproxy.google.com/~r/Brdevlawyer/~3/qZxKQgdtVjU/como-personalizar-github.html)
 - [Como usar o Git e o GitHub na prática: um guia simplificado para leigos](http://feedproxy.google.com/~r/Brdevlawyer/~3/A_ZTc8f2FdI/como-usar-o-git-e-o-github-na-pratica.html)
 - [É possível um ambiente colaborativo no Direito?](http://feedproxy.google.com/~r/Brdevlawyer/~3/NLz87L24jJo/possivel-ambiente-colaborativo-no-direito.html)
