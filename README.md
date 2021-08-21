@@ -34,11 +34,11 @@ ___
 
 ## Latest Dev.Lawyer posts (En)
 <!-- BLOG-POST-LIST:START -->
+- [Why and How to set your TARGET AUDIENCE | LEGAL MARKETING](http://feedproxy.google.com/~r/Devlawyer/~3/q7xWpiIdBHI/legal-marketing-target-audience.html)
 - [How to choose a CODE EDITOR for WEB DEVELOPMENT (IDE?)](http://feedproxy.google.com/~r/Devlawyer/~3/s43GOQ2_D8k/code-editor-web-development.html)
 - [How to customize your GitHub profile?](http://feedproxy.google.com/~r/Devlawyer/~3/6mUO1Rkc16w/cutomize-github.html)
 - [How to use Git and GitHub: a step-by-step dummies' guide](http://feedproxy.google.com/~r/Devlawyer/~3/hxFsaEsF_Yo/how-to-use-git-and-github-step-by-step-guide.html)
 - [Is it possible to have a collaborative environment in Law?](http://feedproxy.google.com/~r/Devlawyer/~3/MMqBHCTij4g/collaborative-law.html)
-- [Should Lawyers code?](http://feedproxy.google.com/~r/Devlawyer/~3/anPbfKtMVk0/should-lawyers-code.html)
 <!-- BLOG-POST-LIST:END -->
 
 ___
