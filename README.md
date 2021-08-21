@@ -17,6 +17,7 @@ ___
 
 ## Latest Dev.Lawyer YouTube Videos
 <!-- YOUTUBE:START -->
+- [FAÇA ISTO antes de divulgar o seu escritório | Como acertar o PÚBLICO ALVO vai te alavancar](https://www.youtube.com/watch?v=VV5PY0V4CwA)
 - [Como escolher um EDITOR DE CÓDIGO para PROGRAMAÇÃO WEB](https://www.youtube.com/watch?v=h73ZVeWRsj4)
 - [Dica rápida, dev: não crie novo e-mail para cadastro | Alias de e-mail #Shorts](https://www.youtube.com/watch?v=nAJduSo_N7s)
 - [Como personalizar o meu perfil no GITHUB? | Destaque-se customizando o seu GITHUB (README)](https://www.youtube.com/watch?v=DyK5oZD612M)
