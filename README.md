@@ -26,11 +26,11 @@ ___
 
 ## Latest Dev.Lawyer posts (Pt-BR)
 <!-- BLOG-POST-LIST-BR:START -->
+- [Como ter um e-mail profissional no Gmail](http://feedproxy.google.com/~r/Brdevlawyer/~3/kh4Lcle869w/email-profissional-no-gmail.html)
 - [Por que aprender programação é algo importante para todos?](http://feedproxy.google.com/~r/Brdevlawyer/~3/jqDgxP1YAIY/aprender-programacao-importante-para-todos.html)
 - [Como registrar um endereço de internet profissional](http://feedproxy.google.com/~r/Brdevlawyer/~3/77J1Mq90z-M/registrar-dominio-internet-profissional.html)
 - [Como e porque definir o seu PÚBLICO ALVO | Marketing Jurídico](http://feedproxy.google.com/~r/Brdevlawyer/~3/Ms5H5vzABuQ/merketing-juridico-publico-alvo.html)
 - [Como escolher um EDITOR DE CÓDIGO para PROGRAMAÇÃO WEB (IDE?)](http://feedproxy.google.com/~r/Brdevlawyer/~3/A788NA0AMPE/escolher-editor-codigo-programacao-web.html)
-- [Como personalizar o seu perfil no GitHub?](http://feedproxy.google.com/~r/Brdevlawyer/~3/qZxKQgdtVjU/como-personalizar-github.html)
 <!-- BLOG-POST-LIST-BR:END -->
 
 ## Latest Dev.Lawyer posts (En)
