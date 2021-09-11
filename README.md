@@ -17,11 +17,11 @@ ___
 
 ## Latest Dev.Lawyer YouTube Videos
 <!-- YOUTUBE:START -->
+- [Como criar um SITE Passo a Passo GRÁTIS](https://www.youtube.com/watch?v=xrp1c9OvQPQ)
 - [Como criar um E-MAIL PROFISSIONAL no GMAIL](https://www.youtube.com/watch?v=lHc0tUonBSE)
 - [Lógica de Programação na prática](https://www.youtube.com/watch?v=rF9vEPBNva0)
 - [Como registrar um ENDEREÇO DE INTERNET profissional](https://www.youtube.com/watch?v=iAUYyazHXeQ)
 - [Como funciona o PÚBLICO ALVO?  Veja antes de divulgar o seu conteúdo!](https://www.youtube.com/watch?v=VV5PY0V4CwA)
-- [Como escolher um EDITOR DE CÓDIGO para PROGRAMAÇÃO WEB](https://www.youtube.com/watch?v=h73ZVeWRsj4)
 <!-- YOUTUBE:END -->
 
 ## Latest Dev.Lawyer posts (Pt-BR)
