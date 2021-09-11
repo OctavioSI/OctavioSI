@@ -35,11 +35,11 @@ ___
 
 ## Latest Dev.Lawyer posts (En)
 <!-- BLOG-POST-LIST:START -->
+- [How to create a website step by step for free](http://feedproxy.google.com/~r/Devlawyer/~3/390eyI4qODI/create-website-step.html)
 - [How to have a professional email address with Gmail?](http://feedproxy.google.com/~r/Devlawyer/~3/UWgiZNKcub8/professional.html)
 - [Why programming should be for everyone?](http://feedproxy.google.com/~r/Devlawyer/~3/AN1hUYbMf4M/programming-should-be-for-everyone.html)
 - [How to register a profissional Internet Domain](http://feedproxy.google.com/~r/Devlawyer/~3/hndORKDYeLo/how-to-register-profissional-internet.html)
 - [Why and How to set your TARGET AUDIENCE | LEGAL MARKETING](http://feedproxy.google.com/~r/Devlawyer/~3/q7xWpiIdBHI/legal-marketing-target-audience.html)
-- [How to choose a CODE EDITOR for WEB DEVELOPMENT (IDE?)](http://feedproxy.google.com/~r/Devlawyer/~3/s43GOQ2_D8k/code-editor-web-development.html)
 <!-- BLOG-POST-LIST:END -->
 
 ___
