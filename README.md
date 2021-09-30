@@ -2,8 +2,8 @@
 
 Full-Stack Developer, Lawyer and Startup Founder. I like to code, create new concepts and drink beer. Father of two.
 
-[![LinkedIn](https://img.shields.io/badge/octaviosi-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/octaviosi) [![Twitter](https://img.shields.io/badge/@octavioietsugu-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/octavioietsugu) [![Instagram](https://img.shields.io/badge/OctavioSI-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/octaviosi/)  [![E-mail](https://img.shields.io/badge/octavio@dev.lawyer-D14836?style=flat&logo=gmail&logoColor=white)](mailto:octavio@dev.lawyer)  
-[![Blog](https://img.shields.io/badge/dev.lawyer-FF5722?style=flat&logo=blogger&logoColor=white)](https://dev.lawyer) [![Twitch](https://img.shields.io/badge/DevLawyers-9146FF?style=flat&logo=twitch&logoColor=white)](https://www.twitch.tv/devlawyers) [![YouTube](https://img.shields.io/badge/dev.lawyer-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCPmM6RAkfC0CY2gGudIhWQA) 
+[![LinkedIn](https://img.shields.io/badge/octaviosi-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/octaviosi) [![Twitter](https://img.shields.io/badge/@octavioietsugu-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/octavioietsugu) [![Instagram](https://img.shields.io/badge/Dev.Lawyer-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/dev.lawyer/)  [![E-mail](https://img.shields.io/badge/octavio@dev.lawyer-D14836?style=flat&logo=gmail&logoColor=white)](mailto:octavio@dev.lawyer)  
+[![Blog](https://img.shields.io/badge/dev.lawyer-FF5722?style=flat&logo=blogger&logoColor=white)](https://dev.lawyer) [![YouTube](https://img.shields.io/badge/dev.lawyer-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCPmM6RAkfC0CY2gGudIhWQA) 
 
 ___
 When you follow so many tech and legal "influencers", you can promptly notice that only a handful of them can properly do both. I believe that, as me, there are other lawyer-developers out there (or at least some enthusiasts in this niche) that like the idea of having a safe ground to discuss technology applied to the legal field in a way that is between (i) the superficial approach - a "beginners" one used by those who are self-entitled tech lawyers / innovation lawyers - and (ii) a more "technical" or "heavy" approach used by "pure" developers.
@@ -17,21 +17,29 @@ ___
 
 ## Latest Dev.Lawyer YouTube Videos
 <!-- YOUTUBE:START -->
-- [Como usar o GIT e o GITHUB na prática | Tutorial de GIT e GITHUB para iniciantes](https://www.youtube.com/watch?v=cnIYisCYlzM)
+- [[PASSO A PASSO] Como fazer uma LISTA DE EMAILS no seu site](https://www.youtube.com/watch?v=hkcSEJHnpe4)
+- [Como criar uma LANDING PAGE sem programação](https://www.youtube.com/watch?v=keKOJEhhDqY)
+- [[PASSO A PASSO] Como criar um SITE GRÁTIS sem programação](https://www.youtube.com/watch?v=xrp1c9OvQPQ)
+- [Como criar um E-MAIL PROFISSIONAL no GMAIL](https://www.youtube.com/watch?v=lHc0tUonBSE)
+- [Lógica de Programação na prática](https://www.youtube.com/watch?v=rF9vEPBNva0)
 <!-- YOUTUBE:END -->
 
 ## Latest Dev.Lawyer posts (Pt-BR)
 <!-- BLOG-POST-LIST-BR:START -->
-- [Como usar o Git e o GitHub na prática: um guia simplificado para leigos](http://feedproxy.google.com/~r/Brdevlawyer/~3/A_ZTc8f2FdI/como-usar-o-git-e-o-github-na-pratica.html)
-- [É possível um ambiente colaborativo no Direito?](http://feedproxy.google.com/~r/Brdevlawyer/~3/NLz87L24jJo/possivel-ambiente-colaborativo-no-direito.html)
-- [Advogados devem programar?](http://feedproxy.google.com/~r/Brdevlawyer/~3/ThEjSdnsNDM/advogados-devem-programar.html)
+- [Como criar uma lista de e-mails em seu site (mailing list)](http://feedproxy.google.com/~r/Brdevlawyer/~3/n0M3Nur2V_E/lista-de-email-mailing-list.html)
+- [Como criar uma landing page sem programação](http://feedproxy.google.com/~r/Brdevlawyer/~3/Bi1myxHQ-t8/landing-page-sem-programacao.html)
+- [Como criar um site passo a passo grátis](http://feedproxy.google.com/~r/Brdevlawyer/~3/yzhV5n1GhY8/como-criar-site-passoapasso-gratis.html)
+- [Como ter um e-mail profissional no Gmail](http://feedproxy.google.com/~r/Brdevlawyer/~3/kh4Lcle869w/email-profissional-no-gmail.html)
+- [Por que aprender programação é algo importante para todos?](http://feedproxy.google.com/~r/Brdevlawyer/~3/jqDgxP1YAIY/aprender-programacao-importante-para-todos.html)
 <!-- BLOG-POST-LIST-BR:END -->
 
 ## Latest Dev.Lawyer posts (En)
 <!-- BLOG-POST-LIST:START -->
-- [How to use Git and GitHub: a step-by-step dummies' guide](http://feedproxy.google.com/~r/Devlawyer/~3/hxFsaEsF_Yo/how-to-use-git-and-github-step-by-step-guide.html)
-- [Is it possible to have a collaborative environment in Law?](http://feedproxy.google.com/~r/Devlawyer/~3/MMqBHCTij4g/collaborative-law.html)
-- [Should Lawyers code?](http://feedproxy.google.com/~r/Devlawyer/~3/anPbfKtMVk0/should-lawyers-code.html)
+- [How to create a mailing list on your website](http://feedproxy.google.com/~r/Devlawyer/~3/hAeOxZS8UPI/create-mailing-list.html)
+- [How to create a LANDING PAGE without coding](http://feedproxy.google.com/~r/Devlawyer/~3/9MXoZXKSX4Y/create-landing-page-without-coding.html)
+- [How to create a website step by step for free](http://feedproxy.google.com/~r/Devlawyer/~3/390eyI4qODI/create-website-step.html)
+- [How to have a professional email address with Gmail?](http://feedproxy.google.com/~r/Devlawyer/~3/UWgiZNKcub8/professional.html)
+- [Why programming should be for everyone?](http://feedproxy.google.com/~r/Devlawyer/~3/AN1hUYbMf4M/programming-should-be-for-everyone.html)
 <!-- BLOG-POST-LIST:END -->
 
 ___
