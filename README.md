@@ -17,11 +17,11 @@ ___
 
 ## Latest Dev.Lawyer YouTube Videos
 <!-- YOUTUBE:START -->
+- [[INSTALE PASSO A PASSO] 5 Temas grátis para BLOGGER](https://www.youtube.com/watch?v=ibvWdC2mm30)
 - [[PASSO A PASSO] Como fazer uma LISTA DE EMAILS no seu site](https://www.youtube.com/watch?v=hkcSEJHnpe4)
 - [Como criar uma LANDING PAGE sem programação](https://www.youtube.com/watch?v=keKOJEhhDqY)
 - [[PASSO A PASSO] Como criar um SITE GRÁTIS sem programação](https://www.youtube.com/watch?v=xrp1c9OvQPQ)
 - [Como criar um E-MAIL PROFISSIONAL no GMAIL](https://www.youtube.com/watch?v=lHc0tUonBSE)
-- [Lógica de Programação na prática](https://www.youtube.com/watch?v=rF9vEPBNva0)
 <!-- YOUTUBE:END -->
 
 ## Latest Dev.Lawyer posts (Pt-BR)
