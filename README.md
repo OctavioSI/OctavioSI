@@ -68,6 +68,11 @@ ___
 ## Latest Dev.Lawyer posts (Pt-BR)
 
 <!-- BLOG-POST-LIST-BR:START -->
+- [5 TEMAS GRATUITOS do Blogger para o site do seu escritório](http://feedproxy.google.com/~r/Brdevlawyer/~3/AIpNRFocBMY/5-temas-gratuitos-para-blogger-site-.html)
+- [Como criar uma lista de e-mails em seu site (mailing list)](http://feedproxy.google.com/~r/Brdevlawyer/~3/n0M3Nur2V_E/lista-de-email-mailing-list.html)
+- [Como criar uma landing page sem programação](http://feedproxy.google.com/~r/Brdevlawyer/~3/Bi1myxHQ-t8/landing-page-sem-programacao.html)
+- [Como criar um site passo a passo grátis](http://feedproxy.google.com/~r/Brdevlawyer/~3/yzhV5n1GhY8/como-criar-site-passoapasso-gratis.html)
+- [Como ter um e-mail profissional no Gmail](http://feedproxy.google.com/~r/Brdevlawyer/~3/kh4Lcle869w/email-profissional-no-gmail.html)
 <!-- BLOG-POST-LIST-BR:END -->
 
 ## Latest Dev.Lawyer posts (En)
