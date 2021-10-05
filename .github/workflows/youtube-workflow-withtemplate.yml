@@ -1,12 +1,12 @@
-name: Latest youtube activity
+name: Latest youtube activity with template
 on:
   schedule:
     # Runs at 08h00 on Sunday
     - cron: '0 8 * * 0'
   workflow_dispatch:
 jobs:
-  update-readme-with-stack-overflow:
-    name: Update this repo's README with latest activity from StackOverflow
+  update-readme-with-stack-youtube:
+    name: Update this repo's README with latest activity from YouTube
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2

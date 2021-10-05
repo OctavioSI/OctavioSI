@@ -5,7 +5,7 @@ on:
     - cron: '0 8 * * *'
   workflow_dispatch:
 jobs:
-  update-readme-with-stack-overflow:
+  update-readme-with-yt:
     name: Update this repo's README with latest activity from StackOverflow
     runs-on: ubuntu-latest
     steps:
