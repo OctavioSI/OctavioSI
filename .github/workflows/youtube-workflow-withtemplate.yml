@@ -35,4 +35,4 @@ jobs:
           # definidas pelo autor do repositório, e podem ser usadas aqui. Veja mais informações
           # sobre essas e outras variáveis aqui: 
           # https://github.com/gautamkrishnar/blog-post-workflow
-          template: '<a href="$url"><img src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg" />$newline $title</a>$newline'
+          template: '<a href="$url"><img src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg" /><br />$title</a><br />'
