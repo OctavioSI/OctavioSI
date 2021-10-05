@@ -15,6 +15,24 @@ jobs:
           comment_tag_name: "YOUTUBE"
           commit_message: "Updated readme with the latest youtube data"
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCPmM6RAkfC0CY2gGudIhWQA"
+          # * custom_tags * possibilita obtermos uma variavel com base 
+          # no resultado obtido na linha de feed_list acima. Por exemplo, se você 
+          # acessar o endereço acima no navegador, vai acessar o XML que o YouTube fornece
+          # para o meu canal (você pode visualizar melhor aqui: 
+          # https://codebeautify.org/xmlviewer).
+          #
+          # Se olhar nas opções existentes, você vai verificar que há, por exemplo, uma tag com 
+          # o nome yt:videoid que é o id do nosso vídeo. Tem tag para o título também. Tem até 
+          # thumbnail no media:thumbnail.
+          #
+          # Essas informações você pode passar para o endereço para o template de modo a obter a 
+          # imagem, por exemplo
           custom_tags: "videoId/yt:videoid/,publishDate/published/"
+          # * max_post_count * apenas delimita quantos resultados obteremos.
           max_post_count: 6
-          template: "<a href="$url"><img src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg" />$newline $title</a>$newline"
+          # * template * determina como será a exibição de cada um dos resultados obtidos
+          # na nossa página de README. As variáveis $newline, $title e $url são variáveis já
+          # definidas pelo autor do repositório, e podem ser usadas aqui. Veja mais informações
+          # sobre essas e outras variáveis aqui: 
+          # https://github.com/gautamkrishnar/blog-post-workflow
+          template: '<a href="$url"><img src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg" />$newline $title</a>$newline'
