@@ -57,19 +57,7 @@ ___
 
 ## Latest Dev.Lawyer YouTube Videos
 
-<!-- YOUTUBE:START --><a href="https://www.youtube.com/watch?v=ibvWdC2mm30"><img src="https://i.ytimg.com/vi//mqdefault.jpg" />
- [INSTALE PASSO A PASSO] 5 Temas grátis para BLOGGER</a>
-<a href="https://www.youtube.com/watch?v=hkcSEJHnpe4"><img src="https://i.ytimg.com/vi//mqdefault.jpg" />
- [PASSO A PASSO] Como fazer uma LISTA DE EMAILS no seu site</a>
-<a href="https://www.youtube.com/watch?v=keKOJEhhDqY"><img src="https://i.ytimg.com/vi//mqdefault.jpg" />
- Como criar uma LANDING PAGE sem programação</a>
-<a href="https://www.youtube.com/watch?v=xrp1c9OvQPQ"><img src="https://i.ytimg.com/vi//mqdefault.jpg" />
- [PASSO A PASSO] Como criar um SITE GRÁTIS sem programação</a>
-<a href="https://www.youtube.com/watch?v=lHc0tUonBSE"><img src="https://i.ytimg.com/vi//mqdefault.jpg" />
- Como criar um E-MAIL PROFISSIONAL no GMAIL</a>
-<a href="https://www.youtube.com/watch?v=rF9vEPBNva0"><img src="https://i.ytimg.com/vi//mqdefault.jpg" />
- Lógica de Programação na prática</a>
-<!-- YOUTUBE:END -->
+<!-- YOUTUBE:START --><a href="https://www.youtube.com/watch?v=ibvWdC2mm30"><img src="https://i.ytimg.com/vi/ibvWdC2mm30/mqdefault.jpg" /><br />[INSTALE PASSO A PASSO] 5 Temas grátis para BLOGGER</a><br /><a href="https://www.youtube.com/watch?v=hkcSEJHnpe4"><img src="https://i.ytimg.com/vi/hkcSEJHnpe4/mqdefault.jpg" /><br />[PASSO A PASSO] Como fazer uma LISTA DE EMAILS no seu site</a><br /><a href="https://www.youtube.com/watch?v=keKOJEhhDqY"><img src="https://i.ytimg.com/vi/keKOJEhhDqY/mqdefault.jpg" /><br />Como criar uma LANDING PAGE sem programação</a><br /><a href="https://www.youtube.com/watch?v=xrp1c9OvQPQ"><img src="https://i.ytimg.com/vi/xrp1c9OvQPQ/mqdefault.jpg" /><br />[PASSO A PASSO] Como criar um SITE GRÁTIS sem programação</a><br /><a href="https://www.youtube.com/watch?v=lHc0tUonBSE"><img src="https://i.ytimg.com/vi/lHc0tUonBSE/mqdefault.jpg" /><br />Como criar um E-MAIL PROFISSIONAL no GMAIL</a><br /><a href="https://www.youtube.com/watch?v=rF9vEPBNva0"><img src="https://i.ytimg.com/vi/rF9vEPBNva0/mqdefault.jpg" /><br />Lógica de Programação na prática</a><br /><!-- YOUTUBE:END -->
 
 ## Latest Dev.Lawyer posts (Pt-BR)
 
