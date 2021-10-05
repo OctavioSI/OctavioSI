@@ -27,7 +27,7 @@ jobs:
           #
           # Essas informações você pode passar para o endereço para o template de modo a obter a 
           # imagem, por exemplo
-          custom_tags: "thumbnail/media:thumbnail/"
+          custom_tags: "videoId/yt:videoid/"
           # * max_post_count * apenas delimita quantos resultados obteremos.
           max_post_count: 6
           # * template * determina como será a exibição de cada um dos resultados obtidos
@@ -35,4 +35,4 @@ jobs:
           # definidas pelo autor do repositório, e podem ser usadas aqui. Veja mais informações
           # sobre essas e outras variáveis aqui: 
           # https://github.com/gautamkrishnar/blog-post-workflow
-          template: "$newline[![$title]($thumbnail)]($url)"
+          template: "<a href="$url"><img src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg" />$newline $title</a>$newline"
