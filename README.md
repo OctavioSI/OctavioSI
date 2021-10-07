@@ -57,7 +57,13 @@ ___
 
 ## Latest Dev.Lawyer YouTube Videos
 
-<!-- YOUTUBE:START -->[![[INSTALE PASSO A PASSO] 5 Temas grátis para BLOGGER](https://portfolio.dev.lawyer/api/youtube-thumbnail/?videoId=ibvWdC2mm30)](https://www.youtube.com/watch?v=ibvWdC2mm30)[![[PASSO A PASSO] Como fazer uma LISTA DE EMAILS no seu site](https://portfolio.dev.lawyer/api/youtube-thumbnail/?videoId=hkcSEJHnpe4)](https://www.youtube.com/watch?v=hkcSEJHnpe4)[![Como criar uma LANDING PAGE sem programação](https://portfolio.dev.lawyer/api/youtube-thumbnail/?videoId=keKOJEhhDqY)](https://www.youtube.com/watch?v=keKOJEhhDqY)[![[PASSO A PASSO] Como criar um SITE GRÁTIS sem programação](https://portfolio.dev.lawyer/api/youtube-thumbnail/?videoId=xrp1c9OvQPQ)](https://www.youtube.com/watch?v=xrp1c9OvQPQ)[![Como criar um E-MAIL PROFISSIONAL no GMAIL](https://portfolio.dev.lawyer/api/youtube-thumbnail/?videoId=lHc0tUonBSE)](https://www.youtube.com/watch?v=lHc0tUonBSE)[![Lógica de Programação na prática](https://portfolio.dev.lawyer/api/youtube-thumbnail/?videoId=rF9vEPBNva0)](https://www.youtube.com/watch?v=rF9vEPBNva0)<!-- YOUTUBE:END -->
+<!-- YOUTUBE:START -->
+[![](https://portfolio.dev.lawyer/api/youtube-thumbnail/?videoId=$videoId)](https://www.youtube.com/watch?v=ibvWdC2mm30)
+[![](https://portfolio.dev.lawyer/api/youtube-thumbnail/?videoId=$videoId)](https://www.youtube.com/watch?v=hkcSEJHnpe4)
+[![](https://portfolio.dev.lawyer/api/youtube-thumbnail/?videoId=$videoId)](https://www.youtube.com/watch?v=keKOJEhhDqY)
+[![](https://portfolio.dev.lawyer/api/youtube-thumbnail/?videoId=$videoId)](https://www.youtube.com/watch?v=xrp1c9OvQPQ)
+[![](https://portfolio.dev.lawyer/api/youtube-thumbnail/?videoId=$videoId)](https://www.youtube.com/watch?v=lHc0tUonBSE)
+[![](https://portfolio.dev.lawyer/api/youtube-thumbnail/?videoId=$videoId)](https://www.youtube.com/watch?v=rF9vEPBNva0)<!-- YOUTUBE:END -->
 
 ## Latest Dev.Lawyer posts (Pt-BR)
 
