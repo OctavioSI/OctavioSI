@@ -1,6 +1,6 @@
 <details open>
     <summary>
-        <img src="https://img.shields.io/badge/%F0%9F%87%BA%F0%9F%87%B8-English%20Version-blue" />
+        👈 <img src="https://img.shields.io/badge/%F0%9F%87%BA%F0%9F%87%B8-English%20Version-blue" />
     </summary>
 <br />
 <a href="https://dev.lawyer"><img title="Hey, Check Out my Blog 🙃" src="header.svg" /></a>
@@ -15,17 +15,18 @@ Full-Stack Developer, Lawyer and Startup Founder. I like to code, create new con
 <a href="mailto:octavio@dev.lawyer"><img title="Email" src="https://img.shields.io/badge/octavio@dev.lawyer-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 <br />
 <hr />
-When you follow so many tech and legal "influencers", you can promptly notice that only a handful of them can properly do both. I believe that, as me, there are other lawyer-developers out there (or at least some enthusiasts in this niche) that like the idea of having a safe ground to discuss technology applied to the legal field in a way that is between (i) the superficial approach - a "beginners" one used by those who are self-entitled tech lawyers / innovation lawyers - and (ii) a more "technical" or "heavy" approach used by "pure" developers.
+When you follow so many tech and legal "influencers", you can promptly notice that only a handful of them can properly do both. I believe that, as me, there are other <strong>lawyer-developers</strong> out there (or at least some enthusiasts in this niche) that like the idea of having a safe ground to discuss technology applied to the legal field in a way that is between (i) <i>the superficial approach</i> - a "beginners" one used by those who are self-entitled tech lawyers / innovation lawyers - and (ii) <i>a more "technical" or "heavy" approach</i> used by "pure" developers.
 <br />
 <br />
 I strive to build solutions thought to and by lawyers, which can potentially impact the way we work. And have fun while doing it. 😁
 <br />
 <br />
 <i>Are you a lawyer interested in coding, want to colab in some innovative projects or just want to say hi? Drop me a line at <a href="mailto:octavio@dev.lawyer">octavio@dev.lawyer</a></i> 😉
+<br /><br />
 </details>
 <details>
     <summary>
-	    <img src="https://img.shields.io/badge/%F0%9F%87%A7%F0%9F%87%B7-Vers%C3%A3o%20em%20Portugu%C3%AAs-green" />
+	    👈 <img src="https://img.shields.io/badge/%F0%9F%87%A7%F0%9F%87%B7-Vers%C3%A3o%20em%20Portugu%C3%AAs-green" />
     </summary>
 <br />
 <a href="https://br.dev.lawyer"><img title="Ei, veja aqui o meu Blog 🙃" src="header_ptbr.svg" /></a>
@@ -40,19 +41,15 @@ Programador Full-Stack, Advogado e Startupeiro. Eu gosto de codar, criar novos c
 <a href="mailto:octavio@dev.lawyer"><img title="Email" src="https://img.shields.io/badge/octavio@dev.lawyer-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 <br />
 <hr />
-Ao acompanhar os "influenciadores" de Direito e tecnologia, é possível perceber que poucos vestem os dois chapéus. Acredito que, assim como eu, há outros advogados programadores (ou ao menos entusiastas nesse nicho) que gostam da ideia de um local em que a tecnologia voltada ao Direito pode ser discutida de uma forma intermediária entre (i) a abordagem superficial - de "iniciante" tratada por aqueles que se auto-intitulam advogados da área tech ou de inovação - e (ii) a linguagem mais "técnica" e "pesada" com que conteúdos de tecnologia são apresentados a desenvolvedores.
+Ao acompanhar os "influenciadores" de Direito e tecnologia, é possível perceber que poucos vestem os dois chapéus. Acredito que, assim como eu, há outros <strong>advogados programadores</strong> (ou ao menos entusiastas nesse nicho) que gostam da ideia de um local em que a tecnologia voltada ao Direito pode ser discutida de uma forma intermediária entre (i) <i>a abordagem superficial</i> - de "iniciante" tratada por aqueles que se auto-intitulam advogados da área tech ou de inovação - e (ii) <i>a abordagem mais "técnica" e "pesada"</i> com que conteúdos de tecnologia são apresentados a desenvolvedores.
 <br />
 <br />
 Eu busco construir soluções pensadas por e para advogados, que possam potencialmente impactar a forma com que trabalhamos. E me divertir no processo. 😁
 <br />
 <br />
 <i>Ei, você é um advogado interessado em programação, quer colaborar em projetos inovadores ou apenas quer mandar um oi? Envie uma mensagem para <a href="mailto:octavio@dev.lawyer">octavio@dev.lawyer</a></i> 😉
+<br /><br />
 </details>
-
-
-
-
-
 ___
 
 ## Latest Dev.Lawyer YouTube Videos
@@ -63,7 +60,8 @@ ___
 [![](https://portfolio.dev.lawyer/api/youtube-thumbnail/?videoId=$videoId)](https://www.youtube.com/watch?v=keKOJEhhDqY)
 [![](https://portfolio.dev.lawyer/api/youtube-thumbnail/?videoId=$videoId)](https://www.youtube.com/watch?v=xrp1c9OvQPQ)
 [![](https://portfolio.dev.lawyer/api/youtube-thumbnail/?videoId=$videoId)](https://www.youtube.com/watch?v=lHc0tUonBSE)
-[![](https://portfolio.dev.lawyer/api/youtube-thumbnail/?videoId=$videoId)](https://www.youtube.com/watch?v=rF9vEPBNva0)<!-- YOUTUBE:END -->
+[![](https://portfolio.dev.lawyer/api/youtube-thumbnail/?videoId=$videoId)](https://www.youtube.com/watch?v=rF9vEPBNva0)
+<!-- YOUTUBE:END -->
 
 ## Latest Dev.Lawyer posts (Pt-BR)
 
