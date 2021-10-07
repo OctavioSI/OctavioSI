@@ -27,7 +27,7 @@ jobs:
           #
           # Essas informações você pode passar para o endereço para o template de modo a obter a 
           # imagem, por exemplo
-          custom_tags: "videoId/yt:videoId/,publishDate/published/"
+          custom_tags: "videoId/yt:videoId"
           # * max_post_count * apenas delimita quantos resultados obteremos.
           max_post_count: 6
           # * template * determina como será a exibição de cada um dos resultados obtidos
@@ -35,4 +35,4 @@ jobs:
           # definidas pelo autor do repositório, e podem ser usadas aqui. Veja mais informações
           # sobre essas e outras variáveis aqui: 
           # https://github.com/gautamkrishnar/blog-post-workflow
-          template: '[![$title](https://portfolio.dev.lawyer/api/youtube-thumbnail/?videoId=$videoId)]($url)'
+          template: '$newline[![](https://portfolio.dev.lawyer/api/youtube-thumbnail/?videoId=$videoId)]($url)'
