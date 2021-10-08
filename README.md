@@ -23,6 +23,13 @@ I strive to build solutions thought to and by lawyers, which can potentially imp
 <br />
 <i>Are you a lawyer interested in coding, want to colab in some innovative projects or just want to say hi? Drop me a line at <a href="mailto:octavio@dev.lawyer">octavio@dev.lawyer</a></i> 😉
 <br /><br />
+<hr />
+<h3>💻 Current stack</h3>
+☑️ Seeking business expansion for <a href="http://mevio.com.br" target="_blank">Mevio</a><br />
+☑️ Looking for partnerships to expand <a href="https://hubjur.com.br" target="_blank">HubJur</a>'s user base<br />
+☑️ Creating content on Innovation and Programming applied to Law<br />
+☑️ Learning and applying new Marketing strategies<br />
+<br />
 </details>
 <details>
     <summary>
@@ -49,10 +56,17 @@ Eu busco construir soluções pensadas por e para advogados, que possam potencia
 <br />
 <i>Ei, você é um advogado interessado em programação, quer colaborar em projetos inovadores ou apenas quer mandar um oi? Envie uma mensagem para <a href="mailto:octavio@dev.lawyer">octavio@dev.lawyer</a></i> 😉
 <br /><br />
+<hr />
+<h3>💻 Atividade atual</h3>
+☑️ Buscando expansão de negócios para o <a href="http://mevio.com.br" target="_blank">Mevio</a><br />
+☑️ Procurando parcerias par expandir a base de usuários do <a href="https://hubjur.com.br" target="_blank">HubJur</a><br />
+☑️ Criando conteúdo sobre Inovação e Programação aplicadas ao Direito<br />
+☑️ Aprendendo e aplicando novas estratégias de Marketing<br />
+<br />
 </details>
 ___
 
-## Latest Dev.Lawyer YouTube Videos
+## Latest YouTube videos <a href="https://www.youtube.com/channel/UCPmM6RAkfC0CY2gGudIhWQA?sub_confirmation=1"><img title="Subscribe" src="https://img.shields.io/badge/Dev.Lawyer-%E2%96%B6%20Subscribe!-red" /></a>
 
 <!-- YOUTUBE:START -->
 [![](https://portfolio.dev.lawyer/api/youtube-thumbnail/?videoId=ibvWdC2mm30)](https://www.youtube.com/watch?v=ibvWdC2mm30)
@@ -84,9 +98,9 @@ ___
 
 ___
 
-## Meet my Projects
+## Meet my Active Projects
 
-[![Mevio - Workflows and Automation](https://github.com/OctavioSI/OctavioSI/blob/main/GitHub_Mevio_banner.png?raw=true)](http://www.mevio.com.br)   [![HubJur - Lawyers' Marketplace App using AI](https://github.com/OctavioSI/OctavioSI/blob/main/GitHub_HubJur_banner.png?raw=true)](https://www.hubjur.com.br)   [![Dev.Lawyer - Tech for non-techs](https://github.com/OctavioSI/OctavioSI/blob/main/GitHub_DevLawyer_banner.png?raw=true)](https://dev.lawyer) 
+[![Mevio - Workflows and Automation](./GitHub_Mevio_banner.png?raw=true)](http://www.mevio.com.br)[![HubJur - Lawyers' Marketplace App using AI](./GitHub_HubJur_banner.png?raw=true)](https://www.hubjur.com.br)[![Dev.Lawyer - Tech for non-techs](./GitHub_DevLawyer_banner.png?raw=true)](https://dev.lawyer) 
 
 ___
 
@@ -94,12 +108,7 @@ ___
 
 <img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/> <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/> <img alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/> <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/> <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/> <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/> <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 
-<a href="https://github.com/OctavioSI/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=OctavioSI&count_private=true&theme=monokai&hide_title=true&show_icons=true" />
-</a>
-<a href="https://github.com/octaviosi/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OctavioSI&layout=compact&theme=monokai&hide_title=true" />
-</a>
+## My stats
 
-
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
