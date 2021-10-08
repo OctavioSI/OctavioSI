@@ -110,11 +110,6 @@ ___
 
 ## My stats
 
-<img src="https://github.com/OctavioSI/OctavioSI/blob/main/images/stat.svg" alt="OctavioSI WakaTime Activity"/>
-
-<a href="https://github.com/OctavioSI/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=OctavioSI&count_private=true&theme=monokai&hide_title=true&show_icons=true" />
-</a>
-<a href="https://github.com/octaviosi/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OctavioSI&layout=compact&theme=monokai&hide_title=true" />
-</a>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=OctavioSI&count_private=true&theme=monokai&hide_title=true&show_icons=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OctavioSI&layout=compact&theme=monokai&hide_title=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=OctavioSI&theme=monokai&hide_title=true&layout=default" />
