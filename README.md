@@ -110,8 +110,7 @@ ___
 
 ## My stats
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<img src="https://github.com/OctavioSI/OctavioSI/blob/main/images/stat.svg" alt="OctavioSI WakaTime Activity"/>
 
 <a href="https://github.com/OctavioSI/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=OctavioSI&count_private=true&theme=monokai&hide_title=true&show_icons=true" />
