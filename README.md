@@ -110,6 +110,12 @@ ___
 
 ## My stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=OctavioSI&count_private=true&theme=monokai&hide_title=true&show_icons=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OctavioSI&layout=compact&theme=monokai&hide_title=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=OctavioSI&theme=monokai&hide_title=true&layout=default" />
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=OctavioSI&count_private=true&theme=monokai&hide_title=true&show_icons=true" />
+</a>
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OctavioSI&layout=compact&theme=monokai&hide_title=true" />
+</a>
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=OctavioSI&theme=monokai&hide_title=true&layout=default" />
+</a>
