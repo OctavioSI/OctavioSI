@@ -3,6 +3,7 @@ on:
   schedule:
     # Runs everyday, at 8h00
     - cron: '0 8 * * *'
+  workflow_dispatch:    
 jobs:
   update-readme:
     name: Update the WakaTime Stat
