@@ -96,6 +96,9 @@ ___
 - [How to have a professional email address with Gmail?](http://feedproxy.google.com/~r/Devlawyer/~3/UWgiZNKcub8/professional.html)
 <!-- BLOG-POST-LIST:END -->
 
+## Latest Tweets <a href="https://twitter.com/octavioietsugu?ref_src=twsrc%5Etfw"><img title="Follow me" src="https://img.shields.io/twitter/follow/octavioietsugu?style=social" /></a>
+<img src="https://github-readme-twitter.gazf.vercel.app/api?id=octavioietsugu&layout=wide" />
+
 ___
 
 ## Meet my Active Projects
