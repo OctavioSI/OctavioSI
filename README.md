@@ -66,7 +66,8 @@ Eu busco construir soluções pensadas por e para advogados, que possam potencia
 </details>
 ___
 
-## 🎥 Latest YouTube Videos | Últimos Vídeos no YouTube<a href="https://www.youtube.com/channel/UCPmM6RAkfC0CY2gGudIhWQA?sub_confirmation=1"><img title="Subscribe" src="https://img.shields.io/badge/Dev.Lawyer-%E2%96%B6%20Subscribe!-red" /></a>
+## 🎥 Latest YouTube Videos | Últimos Vídeos no YouTube 
+<a href="https://www.youtube.com/channel/UCPmM6RAkfC0CY2gGudIhWQA?sub_confirmation=1"><img title="Subscribe" src="https://img.shields.io/badge/Dev.Lawyer-%E2%96%B6%20Subscribe!-red" /></a>
 
 <!-- YOUTUBE:START -->
 [![](https://portfolio.dev.lawyer/api/youtube-thumbnail/?videoId=ibvWdC2mm30)](https://www.youtube.com/watch?v=ibvWdC2mm30)
