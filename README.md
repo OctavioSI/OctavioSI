@@ -103,7 +103,7 @@ ___
 </a>
 
 <a href="#">
-<img align="center" src="https://spotify-recently-played-readme.vercel.app/api?user=12156805353&width=300" />>
+<img align="center" src="https://spotify-recently-played-readme.vercel.app/api?user=12156805353&width=300" />
 </a>
 
 ___
