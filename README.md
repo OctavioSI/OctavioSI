@@ -95,10 +95,10 @@ ___
 - [How to create a website step by step for free](http://feedproxy.google.com/~r/Devlawyer/~3/390eyI4qODI/create-website-step.html)
 - [How to have a professional email address with Gmail?](http://feedproxy.google.com/~r/Devlawyer/~3/UWgiZNKcub8/professional.html)
 <!-- BLOG-POST-LIST:END -->
+
+
 <a href="https://twitter.com/octavioietsugu?ref_src=twsrc%5Etfw">
-  <img title="Follow me" src="https://img.shields.io/twitter/follow/octavioietsugu?style=social" />
-</a>
-<a href="https://twitter.com/octavioietsugu?ref_src=twsrc%5Etfw">
+<img title="Follow me" src="https://img.shields.io/twitter/follow/octavioietsugu?style=social" /><br />
 <img align="center" src="https://github-readme-twitter.gazf.vercel.app/api?id=octavioietsugu&layout=default&show_border=on&show_retweet=off&show_reply=off" />
 </a>
 
