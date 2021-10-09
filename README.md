@@ -66,7 +66,7 @@ Eu busco construir soluções pensadas por e para advogados, que possam potencia
 </details>
 ___
 
-## Latest YouTube videos <a href="https://www.youtube.com/channel/UCPmM6RAkfC0CY2gGudIhWQA?sub_confirmation=1"><img title="Subscribe" src="https://img.shields.io/badge/Dev.Lawyer-%E2%96%B6%20Subscribe!-red" /></a>
+## 🎥 Latest YouTube videos <a href="https://www.youtube.com/channel/UCPmM6RAkfC0CY2gGudIhWQA?sub_confirmation=1"><img title="Subscribe" src="https://img.shields.io/badge/Dev.Lawyer-%E2%96%B6%20Subscribe!-red" /></a>
 
 <!-- YOUTUBE:START -->
 [![](https://portfolio.dev.lawyer/api/youtube-thumbnail/?videoId=ibvWdC2mm30)](https://www.youtube.com/watch?v=ibvWdC2mm30)
@@ -76,7 +76,7 @@ ___
 [![](https://portfolio.dev.lawyer/api/youtube-thumbnail/?videoId=lHc0tUonBSE)](https://www.youtube.com/watch?v=lHc0tUonBSE)
 [![](https://portfolio.dev.lawyer/api/youtube-thumbnail/?videoId=rF9vEPBNva0)](https://www.youtube.com/watch?v=rF9vEPBNva0)<!-- YOUTUBE:END -->
 
-## Latest Dev.Lawyer posts (Pt-BR)
+## ✍🏻 Últimos Artigos no Dev.Lawyer (🇧🇷)
 
 <!-- BLOG-POST-LIST-BR:START -->
 - [5 TEMAS GRATUITOS do Blogger para o site do seu escritório](http://feedproxy.google.com/~r/Brdevlawyer/~3/AIpNRFocBMY/5-temas-gratuitos-para-blogger-site-.html)
@@ -86,7 +86,7 @@ ___
 - [Como ter um e-mail profissional no Gmail](http://feedproxy.google.com/~r/Brdevlawyer/~3/kh4Lcle869w/email-profissional-no-gmail.html)
 <!-- BLOG-POST-LIST-BR:END -->
 
-## Latest Dev.Lawyer posts (En)
+## ✍🏻 Latest Dev.Lawyer posts (🇺🇸)
 
 <!-- BLOG-POST-LIST:START -->
 - [5 FREE Blogger Themes for your firm's website](http://feedproxy.google.com/~r/Devlawyer/~3/pB0tE3pX784/5-free-blogger-themes.html)
@@ -97,28 +97,23 @@ ___
 <!-- BLOG-POST-LIST:END -->
 
 
-<a href="https://twitter.com/octavioietsugu?ref_src=twsrc%5Etfw">
-<img title="Follow me" src="https://img.shields.io/twitter/follow/octavioietsugu?style=social" /><br />
-<img align="center" src="https://github-readme-twitter.gazf.vercel.app/api?id=octavioietsugu&layout=default&show_border=on&show_retweet=off&show_reply=off" />
-</a>
-
-<a href="#">
-<img align="center" src="https://spotify-recently-played-readme.vercel.app/api?user=12156805353&width=300" />
-</a>
-
 ___
 
-## Meet my Active Projects
+## 🚀 Meet my Active Projects
 
 [![Mevio - Workflows and Automation](./GitHub_Mevio_banner.png?raw=true)](http://www.mevio.com.br)[![HubJur - Lawyers' Marketplace App using AI](./GitHub_HubJur_banner.png?raw=true)](https://www.hubjur.com.br)[![Dev.Lawyer - Tech for non-techs](./GitHub_DevLawyer_banner.png?raw=true)](https://dev.lawyer) 
 
+
 ___
 
-## This is my core Skillset
+## 🔧 This is my core Skillset
 
 <img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/> <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/> <img alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/> <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/> <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/> <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/> <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 
-## My stats
+
+___
+
+## 📊 My stats
 
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=OctavioSI&count_private=true&theme=monokai&hide_title=true&show_icons=true" />
