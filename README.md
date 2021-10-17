@@ -90,11 +90,11 @@ ___
 ## ✍🏻 Latest Dev.Lawyer posts (🇺🇸)
 
 <!-- BLOG-POST-LIST:START -->
+- [[PART 2] 7+ ways to customize your GitHub Profile (README)](http://feedproxy.google.com/~r/Devlawyer/~3/aKjF6dZzMbE/more-ways-to-customize-your-github-profile-readme.html)
 - [5 FREE Blogger Themes for your firm's website](http://feedproxy.google.com/~r/Devlawyer/~3/pB0tE3pX784/5-free-blogger-themes.html)
 - [How to create a mailing list on your website](http://feedproxy.google.com/~r/Devlawyer/~3/hAeOxZS8UPI/create-mailing-list.html)
 - [How to create a LANDING PAGE without coding](http://feedproxy.google.com/~r/Devlawyer/~3/9MXoZXKSX4Y/create-landing-page-without-coding.html)
 - [How to create a website step by step for free](http://feedproxy.google.com/~r/Devlawyer/~3/390eyI4qODI/create-website-step.html)
-- [How to have a professional email address with Gmail?](http://feedproxy.google.com/~r/Devlawyer/~3/UWgiZNKcub8/professional.html)
 <!-- BLOG-POST-LIST:END -->
 
 
