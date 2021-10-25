@@ -30,6 +30,8 @@ I strive to build solutions thought to and by lawyers, which can potentially imp
 ☑️ Creating content on Innovation and Programming applied to Law<br />
 ☑️ Learning and applying new Marketing strategies<br />
 <br />
+<hr />
+<a href="https://www.buymeacoffee.com/devlawyer" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 </details>
 <details>
     <summary>
@@ -55,14 +57,16 @@ Eu busco construir soluções pensadas por e para advogados, que possam potencia
 <br />
 <br />
 <i>Ei, você é um advogado interessado em programação, quer colaborar em projetos inovadores ou apenas quer mandar um oi? Envie uma mensagem para <a href="mailto:octavio@dev.lawyer">octavio@dev.lawyer</a></i> 😉
-<br /><br />
+<br />
 <hr />
 <h3>💻 Atividade atual</h3>
 ☑️ Buscando expansão de negócios para o <a href="http://mevio.com.br" target="_blank">Mevio</a><br />
 ☑️ Procurando parcerias par expandir a base de usuários do <a href="https://hubjur.com.br" target="_blank">HubJur</a><br />
 ☑️ Criando conteúdo sobre Inovação e Programação aplicadas ao Direito<br />
 ☑️ Aprendendo e aplicando novas estratégias de Marketing<br />
-<br />
+<br /><br />
+<hr />
+<a href="https://www.buymeacoffee.com/devlawyer" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 </details>
 ___
 
