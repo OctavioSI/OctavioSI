@@ -84,11 +84,11 @@ ___
 ## ✍🏻 Últimos Artigos no Dev.Lawyer (🇧🇷)
 
 <!-- BLOG-POST-LIST-BR:START -->
+- [Tutorial Docker para iniciantes](http://feedproxy.google.com/~r/Brdevlawyer/~3/R71v0aRcSiA/tutorial-docker-para-iniciantes.html)
 - [[PARTE 2] Mais 7 formas de PERSONALIZAR o seu perfil no GITHUB (README)](http://feedproxy.google.com/~r/Brdevlawyer/~3/t9Qe3RgliVk/mais-formas-personalizar-perfil-github-parte-2.html)
 - [5 TEMAS GRATUITOS do Blogger para o site do seu escritório](http://feedproxy.google.com/~r/Brdevlawyer/~3/AIpNRFocBMY/5-temas-gratuitos-para-blogger-site-.html)
 - [Como criar uma lista de e-mails em seu site (mailing list)](http://feedproxy.google.com/~r/Brdevlawyer/~3/n0M3Nur2V_E/lista-de-email-mailing-list.html)
 - [Como criar uma landing page sem programação](http://feedproxy.google.com/~r/Brdevlawyer/~3/Bi1myxHQ-t8/landing-page-sem-programacao.html)
-- [Como criar um site passo a passo grátis](http://feedproxy.google.com/~r/Brdevlawyer/~3/yzhV5n1GhY8/como-criar-site-passoapasso-gratis.html)
 <!-- BLOG-POST-LIST-BR:END -->
 
 ## ✍🏻 Latest Dev.Lawyer posts (🇺🇸)
