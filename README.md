@@ -94,11 +94,11 @@ ___
 ## ✍🏻 Latest Dev.Lawyer posts (🇺🇸)
 
 <!-- BLOG-POST-LIST:START -->
-- [Docker Tutorial for Dummies](http://feedproxy.google.com/~r/Devlawyer/~3/I51rOllfGWY/tuorial-docker-for-dummies.html)
-- [[PART 2] 7+ ways to customize your GitHub Profile (README)](http://feedproxy.google.com/~r/Devlawyer/~3/aKjF6dZzMbE/more-ways-to-customize-your-github-profile-readme.html)
-- [5 FREE Blogger Themes for your firm's website](http://feedproxy.google.com/~r/Devlawyer/~3/pB0tE3pX784/5-free-blogger-themes.html)
-- [How to create a mailing list on your website](http://feedproxy.google.com/~r/Devlawyer/~3/hAeOxZS8UPI/create-mailing-list.html)
-- [How to create a LANDING PAGE without coding](http://feedproxy.google.com/~r/Devlawyer/~3/9MXoZXKSX4Y/create-landing-page-without-coding.html)
+- [Docker Tutorial for Dummies](https://blog.dev.lawyer/2021/10/tuorial-docker-for-dummies.html)
+- [[PART 2] 7+ ways to customize your GitHub Profile &lpar;README&rpar;](https://blog.dev.lawyer/2021/10/more-ways-to-customize-your-github-profile-readme.html)
+- [5 FREE Blogger Themes for your firm&#39;s website](https://blog.dev.lawyer/2021/09/5-free-blogger-themes.html)
+- [How to create a mailing list on your website](https://blog.dev.lawyer/2021/09/create-mailing-list.html)
+- [How to create a LANDING PAGE without coding](https://blog.dev.lawyer/2021/09/create-landing-page-without-coding.html)
 <!-- BLOG-POST-LIST:END -->
 
 
